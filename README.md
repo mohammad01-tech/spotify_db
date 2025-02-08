@@ -75,7 +75,7 @@ SELECT *
 FROM SPOTIFY
 where stream > '1000000000';
 
-'''sql
+'''
 3. List all albums along with their respective artists.
 4. Get the total number of comments for tracks where `licensed = TRUE`.
 5. Find all tracks that belong to the album type `single`.
